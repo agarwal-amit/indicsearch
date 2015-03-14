@@ -1,0 +1,1 @@
+A Desktop Gadget that can be used to search in local Indian languages
